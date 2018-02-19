@@ -62,12 +62,12 @@
     
 
     <platform name="android">
-        <icon src="resources/android/icon/ldpi-icon.png" qualifier="ldpi"/>
-        <icon src="resources/android/icon/mdpi-icon.png" qualifier="mdpi"/>
-        <icon src="resources/android/icon/hdpi-icon.png" qualifier="hdpi"/>
-        <icon src="resources/android/icon/xhdpi-icon.png" qualifier="xhdpi"/>
-        <icon src="resources/android/icon/xxhdpi-icon.png" qualifier="xxhdpi"/>
-        <icon src="resources/android/icon/xxxhdpi-icon.png" qualifier="xxxhdpi"/>
+        <icon src="resources/android/icon/ldpi.png" qualifier="ldpi"/>
+        <icon src="resources/android/icon/mdpi.png" qualifier="mdpi"/>
+        <icon src="resources/android/icon/hdpi.png" qualifier="hdpi"/>
+        <icon src="resources/android/icon/xhdpi.png" qualifier="xhdpi"/>
+        <icon src="resources/android/icon/xxhdpi.png" qualifier="xxhdpi"/>
+        <icon src="resources/android/icon/xxxhdpi.png" qualifier="xxxhdpi"/>
         <splash src="resources/android/splash/splash-land-ldpi-screen.png" qualifier="land-ldpi"/>
         <splash src="resources/android/splash/splash-land-mdpi-screen.png" qualifier="land-mdpi"/>
         <splash src="resources/android/splash/splash-land-hdpi-screen.png" qualifier="land-hdpi"/>
